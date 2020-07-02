@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-git clone git://github.com/katilp/CastorDataValidation.git
+git clone git://github.com/hvanhaev/CastorDataValidation.git
 
 mv CastorDataValidation/CMSSW_additional_packages.tar .
 tar -xvf CMSSW_additional_packages.tar

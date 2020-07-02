@@ -14,7 +14,7 @@ jobs:
           pwd
           ls -l
           #  (could use checkout action instead)
-          git clone git://github.com/katilp/CastorDataValidation.git workdir
+          git clone git://github.com/hvanhaev/CastorDataValidation.git workdir
           cd workdir
           chmod +x commands.sh
           ls -l
